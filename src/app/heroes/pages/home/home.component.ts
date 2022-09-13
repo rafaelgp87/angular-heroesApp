@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-home',
   templateUrl: './home.component.html',
   styles: [`
-    .containerc´{
+    .container {
       margin: 10px;
     }
   `]
